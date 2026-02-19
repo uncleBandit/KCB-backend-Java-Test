@@ -1,0 +1,6 @@
+com/banking/booksapi/model/Book.class
+com/banking/booksapi/BooksApiApplication.class
+com/banking/booksapi/controller/BookController.class
+com/banking/booksapi/dto/BookDto.class
+com/banking/booksapi/repository/BookRepository.class
+com/banking/booksapi/services/BookService.class
